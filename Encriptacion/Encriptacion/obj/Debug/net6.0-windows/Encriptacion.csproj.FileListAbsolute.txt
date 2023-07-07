@@ -1,0 +1,17 @@
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\bin\Debug\net6.0-windows\Encriptacion.exe
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\bin\Debug\net6.0-windows\Encriptacion.deps.json
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\bin\Debug\net6.0-windows\Encriptacion.runtimeconfig.json
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\bin\Debug\net6.0-windows\Encriptacion.dll
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\bin\Debug\net6.0-windows\Encriptacion.pdb
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\Encriptacion.csproj.AssemblyReference.cache
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\Encriptacion.Form1.resources
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\Encriptacion.csproj.GenerateResource.cache
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\Encriptacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\Encriptacion.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\Encriptacion.AssemblyInfo.cs
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\Encriptacion.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\Encriptacion.dll
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\refint\Encriptacion.dll
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\Encriptacion.pdb
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\Encriptacion.genruntimeconfig.cache
+C:\Users\Bryan\Documents\Csharp\Encriptacion\Encriptacion\obj\Debug\net6.0-windows\ref\Encriptacion.dll
